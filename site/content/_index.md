@@ -1,21 +1,23 @@
 ---
 title: SItio web usando netlify cms y hugo para archivos estáticos y velocidad
   óptima de carga.
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Descripción del sitio web.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: SItio web usando netlify cms y hugo para archivos estáticos y velocidad
-    óptima de carga.etlify.app/
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    óptima de carga
+  text: Descripción mas detallada de todo el sitio webLeverage agile frameworks to
+    provide a robust synopsis for high level overviews. Iterative approaches to
+    corporate strategy foster collaborative thinking to further the overall
+    value proposition. Organically grow the holistic world view of disruptive
+    innovation via workplace diversity and empowerment.
 intro:
   heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: Leverage agile frameworks to provide a robust synopsis for high level
+    overviews. Iterative approaches to corporate strategy foster collaborative
+    thinking to further the overall value proposition. Organically grow the
+    holistic world view of disruptive innovation via workplace diversity and
+    empowerment.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -30,8 +32,9 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: Leverage agile frameworks to provide a robust synopsis for high level
+    overviews. Iterative approaches to corporate strategy foster collaborative
+    thinking to further the overall value proposition. Organically grow the
+    holistic world view of disruptive innovation via workplace diversity and
+    empowerment.
 ---
